@@ -2,6 +2,8 @@
 
 [Product home / 产品首页](../README.md) · [中文首页](../README.zh-CN.md)
 
+[Open source and commercialization principles / 开源与商业化基本原则](principles.md)
+
 CloudFile prioritizes open source and sustainable maintenance through professional services. New independent code prefers Apache 2.0; existing upstream licenses and copyright notices are preserved. A component's own license files govern its use.
 
 CloudFile 坚持开源优先，通过专业服务支持持续维护。新的独立代码优选 Apache 2.0；保留已有上游许可证和版权声明。各组件的实际使用以自身许可证文件为准。

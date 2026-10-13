@@ -2,6 +2,8 @@
 
 [Product home / 产品首页](../README.md) · [中文首页](../README.zh-CN.md)
 
+[Open source and commercialization principles / 开源与商业化基本原则](principles.md)
+
 CloudFile software is available under its open-source licenses. Professional services support organizations that need assistance adapting, deploying or maintaining it.
 
 CloudFile 软件按开源许可证提供，通过专业服务帮助组织完成适配、部署和持续维护。

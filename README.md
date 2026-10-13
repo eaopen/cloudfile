@@ -30,6 +30,8 @@ Use [Issues](https://github.com/eaopen/cloudfile/issues) for questions, feature 
 
 ## Open Source And Services
 
+[CloudFile Open Source And Commercialization Principles](docs/principles.md)
+
 CloudFile prioritizes open source. The software is free to use under its applicable licenses; consulting, implementation, migration, customization and support are available as professional services. Customer-specific integrations can be maintained separately while reusable improvements return to the public product.
 
 New independent CloudFile projects prefer Apache 2.0. Existing upstream licenses remain in force, including AGPLv3 for the Server core and Filestash, and MIT for the OIDC plugin. See [licensing and upstream acknowledgements](docs/open-source.md). CloudFile is independently maintained and is not an official Seafile edition.
