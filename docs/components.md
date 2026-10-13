@@ -17,7 +17,6 @@ Choose the components needed for your deployment. This directory describes their
 | [Fileview](https://github.com/eaopen/eap-fileview) | Optional enhanced previews / 可选增强预览 |
 | [Filestash](https://github.com/eaopen/cloudfile-filestash) | Optional external file access / 可选外部文件访问 |
 | [Filestash OIDC](https://github.com/eaopen/filestash-auth-oidc) | OIDC authentication integration / OIDC 认证集成 |
-| [Showcase](https://github.com/eaopen/cloudfile-showcase) | Integration examples / 集成示例 |
 
 Storage can use local filesystems or a supported S3-compatible service such as [RustFS](https://github.com/rustfs/rustfs). Storage, external file browsing, previews and the local Agent are optional components. Permissions, search, AI-assisted file workflows and enterprise APIs are product capability areas; availability follows the installed release.
 
