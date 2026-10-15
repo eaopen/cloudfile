@@ -11,3 +11,9 @@ Do not publish internal management records, development plans, progress logs, ac
 Before adapting internal material, extract confirmed user-facing conclusions and remove internal or confidential details. Public documentation must stand on its own.
 
 将内部材料转为公开内容前，提炼已确认且面向使用者的结论，去除内部与保密信息。公开文档必须能够独立阅读。
+
+## Language Editions / 语言版本
+
+Keep public product prose in separate `docs/en/` and `docs/zh-CN/` files with matching names and sections. `README.md` is English; `README.zh-CN.md` is Simplified Chinese. Each translated page links to its counterpart and stays within its language for local navigation. Update both editions in the same change; identify untranslated references explicitly. Old `docs/*.md` paths are compatibility language selectors, not duplicate bodies.
+
+公开产品正文分别维护在 `docs/en/` 与 `docs/zh-CN/`，文件名与章节对应；根 README 分为英文与简体中文。页面提供语言切换，站内导航保持所选语言。同一变更同步两版，未翻译参考资料明确标注原文语言；旧路径仅保留兼容导航，不再复制正文。
