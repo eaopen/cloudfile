@@ -26,4 +26,6 @@
 
 采用发行版本支持的认证与短期访问机制，前端配置及 URL 不保存令牌和存储凭据。服务端回执确认后才能标记提交完成；结果不明的操作按已定义的幂等与恢复机制处理。
 
-技术导航：[Hub 扩展](https://github.com/eaopen/cloudfile-hub/blob/dev/docs/EXTENSIONS.md)、[跨层 ACL 契约](https://github.com/eaopen/cloudfile-docker/blob/dev/docs/acl-semantics.md)、[Agent](https://github.com/eaopen/cloudfile-local-agent/blob/dev/README.zh-CN.md)、[Showcase 样例](https://github.com/eaopen/cloudfile-showcase/blob/main/README.zh-CN.md)。Showcase 演示 API 不等于 CloudFile 已发布接口。
+技术导航：[Hub 扩展](https://github.com/eaopen/cloudfile-hub/blob/dev/docs/EXTENSIONS.md)、[跨层 ACL 契约](https://github.com/eaopen/cloudfile-docker/blob/dev/docs/acl-semantics.md)、[Agent](https://github.com/eaopen/cloudfile-local-agent/blob/dev/README.zh-CN.md)。
+
+上述参考之外的演示接口不等于 CloudFile 已发布接口。

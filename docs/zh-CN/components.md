@@ -16,7 +16,6 @@
 | [Chrome Extension](https://github.com/eaopen/cloudfile-chrome-extension/blob/dev/README.zh-CN.md) | 浏览器与本地助手连接 |
 | [Fileview](https://github.com/eaopen/eap-fileview) | 可选增强预览 |
 | [Filestash](https://github.com/eaopen/cloudfile-filestash) | 可选外部文件访问 |
-| [Showcase](https://github.com/eaopen/cloudfile-showcase/blob/main/README.zh-CN.md) | 展示门户与接入样例 |
 | [Filestash OIDC](https://github.com/eaopen/filestash-auth-oidc/blob/main/README.zh-CN.md) | OIDC 认证集成 |
 
 存储可选择本地文件系统，或所选发行版本已验证的 S3 兼容服务。[RustFS](https://github.com/rustfs/rustfs) 集成仍在验证，分支后端测试不代表生产迁移已受支持。存储服务、外部文件浏览、预览和本地 Agent 按需组合；权限、搜索、AI 文件工作流与企业 API 是产品能力方向，具体支持范围以安装版本为准。

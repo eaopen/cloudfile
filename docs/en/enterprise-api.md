@@ -26,6 +26,6 @@ An initial folder selects the starting view; it does not enforce a restricted ro
 
 Use the authentication and short-lived access mechanisms supported by the release. Keep tokens and storage credentials out of front-end configuration and URLs. Check server receipts before marking submission complete; use documented idempotency and recovery mechanisms for operations with uncertain outcomes.
 
-Technical navigation: [Hub extensions (Chinese)](https://github.com/eaopen/cloudfile-hub/blob/dev/docs/EXTENSIONS.md), [shared ACL contract (Chinese)](https://github.com/eaopen/cloudfile-docker/blob/dev/docs/acl-semantics.md), [Agent](https://github.com/eaopen/cloudfile-local-agent), [Showcase example](https://github.com/eaopen/cloudfile-showcase).
+Technical navigation: [Hub extensions (Chinese)](https://github.com/eaopen/cloudfile-hub/blob/dev/docs/EXTENSIONS.md), [shared ACL contract (Chinese)](https://github.com/eaopen/cloudfile-docker/blob/dev/docs/acl-semantics.md), [Agent](https://github.com/eaopen/cloudfile-local-agent).
 
-The Showcase demonstration API is not a released CloudFile interface.
+Demonstration endpoints described outside these references are not released CloudFile interfaces.
